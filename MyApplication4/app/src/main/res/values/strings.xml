@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gamocdileba">გამოცდილება</string>
+    <string name="ინფო">საკონტაქტო ინფორმაცია</string>
+    <string name="გან">განათლება</string>
+    <string name="სენ">შენახვა</string>
+    <string name="ენები">ენები</string>
+    <string name="პროფ">პროფესია</string>
+    <string name="todo">TODO</string>
+</resources>
